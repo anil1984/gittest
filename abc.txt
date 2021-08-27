@@ -1,2 +1,8 @@
 hi git
+
+my branch commit
+
+
 this is a new commit after clone
+
+merge to master
